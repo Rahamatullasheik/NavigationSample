@@ -51,4 +51,4 @@ steps:
     releaseNotesOption: 'input'
     releaseNotesInput: 'Here are the release notes for this version.'
     destinationType: 'groups'
-    distributionGroupId: '81fe2568-a91f-4bc8-bd41-05320a1aa21e'
+    distributionGroupId: '47e8accb-4b28-40d5-a327-d126cb570703'
