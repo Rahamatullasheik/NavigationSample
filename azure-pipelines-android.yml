@@ -46,7 +46,7 @@ steps:
   inputs:
     serverEndpoint: 'testappcenter'
     appSlug: 'rahamatullasheik-outlook.com/SampleAndroidApplication'
-    appFile: 'android/app/build/outputs/apk/release/NavigationSample-release-1.0.0.apk'
+    appFile: 'android/app/build/outputs/apk/release/NavigationSample-release-$(PversionName).apk'
     releaseNotesOption: 'input'
     releaseNotesInput: 'Here are the release notes for this version.'
     destinationType: 'groups'
