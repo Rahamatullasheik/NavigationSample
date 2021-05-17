@@ -44,7 +44,7 @@ steps:
 
 - task: AppCenterDistribute@3
   inputs:
-    serverEndpoint: 'newappcenter'
+    serverEndpoint: 'appcenter'
     appSlug: 'SampleAndroidApplication'
     appFile: 'android/app/build/outputs/apk/release/NavigationSample-release-1.0.0.apk'
     releaseNotesOption: 'input'
