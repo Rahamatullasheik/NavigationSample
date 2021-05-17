@@ -51,4 +51,4 @@ steps:
     releaseNotesOption: 'input'
     releaseNotesInput: 'Here are the release notes for this version.'
     destinationType: 'groups'
-    distributionGroupId: 'SampleAndroidGroup'
+    #distributionGroupId: 'SampleAndroidGroup'
